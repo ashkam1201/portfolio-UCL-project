@@ -3,7 +3,7 @@
   }
   
   body {
-    background-color: #f1cb82;
+    background-color: #a09fb1;
     padding: 20px;
     font-family: Arial;
   }
@@ -29,8 +29,10 @@
   }
   
   h1 {
-    margin-top: 5%;
 
+    margin-top: 5%;
+    background-color:rgb(224, 218, 218);
+    border-radius: 25%;
     font-size: 50px;
     text-align: center;
   }
